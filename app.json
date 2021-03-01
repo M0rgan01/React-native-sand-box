@@ -1,0 +1,12 @@
+{
+  "name": "react-native-sand-box",
+  "displayName": "react-native-sand-box",
+  "expo": {
+    "name": "react-native-sand-box",
+    "slug": "react-native-sand-box",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
